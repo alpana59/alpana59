@@ -67,7 +67,27 @@ I believe in learning by building real projects and improving step by step every
   <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" width="120" height="120"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="120" height="120"/>
-</p>
+</p> 
+<h2 align="center">💼 Work Experience</h2>
+
+<table align="center" width="90%" cellpadding="12" cellspacing="0">
+<tr style="background-color:#e0bbff;">
+<th>🏢 Organization</th>
+<th>💻 Role</th>
+<th>⏳ Duration</th>
+<th>🚀 Work</th>
+</tr>
+
+<tr style="background-color:#f5e6ff;">
+<td><b>Taurus Glocal Consulting Services Pvt. Ltd.</b></td>
+<td>Full Stack Developer Intern</td>
+<td>Dec 2025 – Present</td>
+<td>
+Real-Time Web Conferencing App (MERN Stack)<br>
+Backend APIs • Video Call Integration • Database Management
+</td>
+</tr>
+</table>
 
 ## 🚀 Projects
 
