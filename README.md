@@ -38,25 +38,7 @@ I believe in learning by building real projects and improving step by step every
 </p>
 
 ---
-## 🛠 Technical Stack
 
----
-
-### 🎨 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
-
----
-
-### ☕ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,cpp" />
-</p>
-
----
 
 ## 🛠 Technical Stack
 
