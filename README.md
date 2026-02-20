@@ -137,6 +137,49 @@ _Built a strong foundation in Computer Applications_
 📅 2025
 
 ---
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  
+  <a href="mailto:richa71519@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-richa71519@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/alpana59">
+    <img src="https://img.shields.io/badge/GITHUB-alpana59-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/alpana-kumari-7b862a338">
+    <img src="https://img.shields.io/badge/LINKEDIN-Alpana%20Kumari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</p>
+
+---
+
+## 💖 Built With Passion
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILT%20WITH-❤️%20LOVE-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POWERED%20BY-☕%20COFFEE-6f4e37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MCA%20Student-🚀%20Developer-blueviolet?style=for-the-badge"/>
+</p>
+
+---
+
+## ✨ Fun Corner
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer%20Quote-First%20solve%20the%20problem%2C%20then%20write%20the%20code.-purple?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>— John Johnson</b>
+</p>
+
+---
 
 <p align="center">
   💕 Thanks for visiting my profile 💕
