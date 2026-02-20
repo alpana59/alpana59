@@ -88,6 +88,31 @@ Backend APIs • Video Call Integration • Database Management
 </td>
 </tr>
 </table>
+<h2 align="center">🎓 Education</h2>
+
+<table align="center" width="80%" style="border-collapse: collapse;">
+
+<tr style="background-color:#f8f9fa;">
+<th align="left" style="padding:10px;">Degree</th>
+<th align="left" style="padding:10px;">College</th>
+<th align="left" style="padding:10px;">Session</th>
+</tr>
+
+<tr style="background-color:#ffffff;">
+<td style="padding:10px;"><b>MCA</b></td>
+<td style="padding:10px;">Patna Women's College,<br>Patna University</td>
+<td style="padding:10px;">2024 – 2026</td>
+</tr>
+
+<tr style="background-color:#f1f3f5;">
+<td style="padding:10px;"><b>BCA</b></td>
+<td style="padding:10px;">GJ College,<br>Rambagh Bihta<br>
+<i>Built a strong foundation in computer applications</i></td>
+<td style="padding:10px;">2021 – 2024</td>
+</tr>
+
+</table>
+
 ## 🚀 Projects
 
 🔹 🎥 [Web Conferencing App](https://github.com/alpana59/web-conferencing-app)  
