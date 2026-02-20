@@ -107,18 +107,28 @@ _Built a strong foundation in Computer Applications_
 
 ---
 
-## 📊 GitHub Stats
+<h1 align="center">📊 GitHub Stats</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpana59&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alpana59&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpana59&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpana59&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpana59&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpana59&layout=donut&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpana59&theme=tokyo-night&hide_border=true" />
+</p>
+
+<h2 align="center">🏆 Achievements & Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alpana59&theme=tokyonight&no-frame=true" />
 </p>
 
 ---
