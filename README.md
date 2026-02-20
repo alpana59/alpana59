@@ -81,14 +81,13 @@ I believe in learning by building real projects and improving step by step every
 <tr style="background-color:#f5e6ff;">
 <td><b>Taurus Glocal Consulting Services Pvt. Ltd.</b></td>
 <td>Full Stack Developer Intern</td>
-<td>Dec 2025 – Present</td>
+<td>Decmber 2025 – Present</td>
 <td>
 Real-Time Web Conferencing App (MERN Stack)<br>
 Backend APIs • Video Call Integration • Database Management
 </td>
 </tr>
 </table>
-
 ## 🚀 Projects
 
 🔹 🎥 [Web Conferencing App](https://github.com/alpana59/web-conferencing-app)  
