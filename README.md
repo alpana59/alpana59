@@ -19,42 +19,23 @@
 </h1>
 
 ---
-
-<h2 align="center">🧠 About Me</h2>
+<h2 align="center">💖 About Me</h2>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+  <img src="https://img.freepik.com/free-vector/woman-working-laptop-coding-programming_74855-19990.jpg" width="400"/>
 </p>
 
 <p align="center">
+✨ MCA Student & Full Stack Developer<br><br>
 
-✨ Passionate MCA Student & Developer  
-💻 Skilled in <b>Java (Core & Advanced)</b> and <b>MERN Stack</b>  
-🚀 Currently building a <b>Web Conferencing App</b>  
-🔐 Exploring Authentication & Real-time Features  
-📚 Always learning and improving backend skills  
+I build modern and user-friendly web applications using 
+<strong>Java (Core & Advanced)</strong> and the <strong>MERN Stack</strong>.<br><br>
 
+🎯 Currently working on a <strong>Web Conferencing App</strong> 
+using Node.js, MongoDB, and real-time technologies.<br><br>
+
+I believe in learning by building real projects and improving step by step every day 🚀
 </p>
-
----
-
-<h3 align="center">🎯 Focus Area</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Development-ff69b4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-Backend-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge"/>
-</p>
-
----
-
-<h3 align="center">💖 Current Project</h3>
-
-<p align="center">
-Building a Web Conferencing App using Node.js, MongoDB & Authentication System.  
-Video calling feature is currently in progress 🚧
-</p>
-
 ## 🛠️ Tech Stack
 
 <p align="center">
