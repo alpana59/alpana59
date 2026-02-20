@@ -36,12 +36,23 @@ using Node.js, MongoDB, and real-time technologies.<br><br>
 
 I believe in learning by building real projects and improving step by step every day 🚀
 </p>
-## 🛠️ Tech Stack
+<h2 align="center">💖 About Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+  <img src="https://img.freepik.com/free-vector/woman-working-laptop-coding-programming_74855-19990.jpg" width="400"/>
 </p>
 
+<p align="center">
+✨ MCA Student & Full Stack Developer<br><br>
+
+I build modern and user-friendly web applications using 
+<strong>Java (Core & Advanced)</strong> and the <strong>MERN Stack</strong>.<br><br>
+
+🎯 Currently working on a <strong>Web Conferencing App</strong> 
+using Node.js, MongoDB, and real-time technologies.<br><br>
+
+I believe in learning by building real projects and improving step by step every day 🚀
+</p>
 ---
 
 ## 🚀 Projects
