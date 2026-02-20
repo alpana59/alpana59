@@ -107,29 +107,34 @@ _Built a strong foundation in Computer Applications_
 
 ---
 
-<h1 align="center">📊 GitHub Stats</h1>
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alpana59&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alpana59&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpana59&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpana59&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpana59&layout=donut&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpana59&layout=donut&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpana59&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alpana59&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<h2 align="center">🏆 Achievements & Trophies</h2>
+# 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alpana59&theme=tokyonight&no-frame=true" />
+<p align="left">
+  <img src="https://img.shields.io/badge/NPTEL-Database%20Management%20System-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ELITE-Certificate-ffb703?style=for-the-badge"/>
 </p>
+
+🎓 **NPTEL Certification – Database Management System**  
+⭐ Achieved **ELITE**  
+📅 2025
 
 ---
 
