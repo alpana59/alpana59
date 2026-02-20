@@ -22,7 +22,7 @@
 <h2 align="center">💖 About Me</h2>
 
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/woman-working-laptop-coding-programming_74855-19990.jpg" width="400"/>
+  <img src="girl-dev.jpeg" width="400"/>
 </p>
 
 <p align="center">
