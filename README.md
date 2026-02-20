@@ -58,11 +58,35 @@ I believe in learning by building real projects and improving step by step every
 
 ---
 
+## 🛠 Technical Stack
+
+---
+
+### 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+---
+
+### ☕ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,cpp" />
+</p>
+
+---
 ### 🗄 Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlserver" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="120" height="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" width="120" height="120"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="120" height="120"/>
 </p>
+
 ## 🚀 Projects
 
 🔹 🎥 [Web Conferencing App](https://github.com/alpana59/web-conferencing-app)  
