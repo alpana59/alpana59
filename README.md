@@ -19,7 +19,7 @@
 </h1>
 
 ---
-<h2 align="center">💖 About Me</h2>
+
 
 <p align="center">
   <img src="./girl-dev.jpeg" width="400"/>
