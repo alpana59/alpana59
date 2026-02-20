@@ -98,7 +98,6 @@ Backend APIs • Video Call Integration • Database Management
 ![BCA](https://img.shields.io/badge/BCA-2021--2024-blue?style=for-the-badge)
 **GJ College, Rambagh Bihta**  
 _Built a strong foundation in Computer Applications_
-
 ## 🚀 Projects
 
 🔹 🎥 [Web Conferencing App](https://github.com/alpana59/web-conferencing-app)  
