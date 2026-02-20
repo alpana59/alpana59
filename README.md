@@ -139,23 +139,27 @@ _Built a strong foundation in Computer Applications_
 ---
 ---
 
-## 🤝 Let's Connect
+---
+
+## &#129309; Let's Connect
 
 <p align="center">
-  
+
   <a href="mailto:richa71519@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-richa71519@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/alpana59">
-    <img src="https://img.shields.io/badge/GITHUB-alpana59-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/alpana-kumari-7b862a338">
-    <img src="https://img.shields.io/badge/LINKEDIN-Alpana%20Kumari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
 </p>
+
+---
 
 ---
 
@@ -171,14 +175,31 @@ _Built a strong foundation in Computer Applications_
 
 ## ✨ Fun Corner
 
+---
+
+### 💬 Developer Quote
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer%20Quote-First%20solve%20the%20problem%2C%20then%20write%20the%20code.-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/QUOTE-Code_is_like_humor._When_you_have_to_explain_it,_it’s_bad.-111827?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>— John Johnson</b>
+  <img src="https://img.shields.io/badge/—_Cory_House-FF69B4?style=for-the-badge" />
 </p>
 
+---
+
+### 😂 Developer Joke
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Q.-Why_do_programmers_hate_nature?-FF4DA6?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/A.-Because_it_has_too_many_bugs!_🐛-00CED1?style=for-the-badge" />
+</p>
+
+---
 ---
 
 <p align="center">
